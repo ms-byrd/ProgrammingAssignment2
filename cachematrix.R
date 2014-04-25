@@ -3,7 +3,7 @@
 ## Purpose of the program: 	This code is for creating a matrix and compute the inverse of the matrix.
 ## 				If the inverse has already been computed once, the solution is cached.
 ## Software, Vers.: 		R x64, 3.0.2
-## Operating system:		Windows
+## Operating system:		Windows 7
 ## Modifications:		CV, 25/04/2014, header changed
 
 ## first function will create matrix
